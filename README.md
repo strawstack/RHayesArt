@@ -1,3 +1,3 @@
-# VueTemplate
+# RHayes.Art
 
-A VueJS template project with CSS modules.
+Single page statements
